@@ -1,0 +1,1205 @@
+#+TITLE: Blurt Out 1 - The LYCE Digitization
+#+AUTHOR: LYCE
+#+EMAIL: hi@lyce.info
+#+DESCRIPTION: This is part of the LYCE Digitization Project, some of them are processed as Anki Text File, in order to make your remembering and practising easy.
+#+KEYWORDS: LYCE, English
+#+LANGUAGE: zh-CN
+#+OPTIONS: H:5 num:nil toc:2 p:t
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg-local.setup
+#+PROPERTY:  header-args :eval never-export
+* 脱口而出 第 1 辑
+
+— 看懂是骗人的！听懂是不够的！说出来才是自己的！
+-----
+
+中国第一家“苦练说”和“苦练脱口而出”的有声读物！
+
+说！说！说！脱口而出！这才是真正的成功！
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/00_introduction.mp3" />
+</audio>
+<center>
+<img src="./images/1.jpg" /><br />
+<img src="./images/2.jpg" /><br />
+<img src="./images/ly.jpg" /><br />
+</center><br /><br />
+#+END_EXPORT
+
+* 第一部：我的誓言
+** My Pledge/Oath 我的誓言
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/01_my_pledge.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+What's your story?
+
+You can't speak! You can't understand! You feel bad! You feel hopeless!
+
+That's crazy! Cheer up!
+
+It's not the end of the world.
+
+Speaking English is a piece of cake.
+
+Don't look back. Enjoy losing face. Just forget about your face.
+
+The more mistakes you make, the more progress you make.
+
+Don't give up.
+
+Just try your best.
+
+Relax! Don't panic! Take it easy!
+
+Be patient and enjoy yourself.
+
+Learning English should be fun.
+
+Speaking good English is no big deal.
+
+It's worth your time and effort.
+
+It's an easy job. Do something about it. You have no choice. No more excuses!
+
+Get moving. Let's get started! Let's talk in English! You'd better do it now.
+
+I have every confidence in you. I want to be proud of you.
+
+It's my pleasure to help you anytime.
+
+You can count on me!
+
+Don't worry about it, I'm serious.
+
+I'll try my best to help you.
+
+We will make it together.
+
+* 第二部：疯狂准备篇
+** 第一节：咬牙切齿的开始
+— 疯狂背诵一百个句型！一百个名型可以造成千上万个句子！
+-----
+
+#+BEGIN_EXPORT html
+<div style="padding: 32px">
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_01_sentencePattern_01_20.mp3" />
+</audio><br />
+Do you like Chinese food/studying Chinese/him/movies/our city/sports/watching sports/traveling/cars/driving/chasing girls?
+</div>
+#+END_EXPORT
+
+*** 1. I am... 我是
+I am an office worker. 我是上班族。
+
+*** 2. I work for... 我在……工作
+I work for the government. 我在政府机关做事。
+
+*** 3. I'm happy to... 我很高兴；我很荣幸
+I'm happy to meet you. 我很高兴见到你。
+
+*** 4. I like.. 我喜欢
+I like your sense of humor. 我喜欢你的幽默感。
+
+*** 5. I'm glad to... 我很高兴
+I'm glad to see you again. 我很高兴再次见到你。
+
+*** 6. I'll... 我会；我将
+I'll call you. 我会打电话给你。
+
+*** 7. I feel like... 我想
+I feel like sleeping/taking a walk. 我想睡/散步。
+
+*** 8. I want... 我想要
+I want something to eat. 我想吃点东西。
+
+*** 9. I need... 我需要
+I need your help. 我需要你的帮助。
+
+*** 10. I would like to... 我想；我愿意
+I would like to talk to you for a minute. 我想和你谈一下。
+
+#+BEGIN_EXPORT html
+<div style="border:1px solid #444444; padding: 7px 20px; width:100%">
+This sentence is so common!<br />
+However, it usually means you are in for a long discussion about something important.<br />
+American parents use this sentence before telling their children about sex, or warning them about the dangers of drugs!<br />
+Very serious talk follows a very light invitation.
+</div><br /><br />
+#+END_EXPORT
+
+*** 11. I have... 我有
+I have a lot of problems. 我有很多问题。
+
+*** 12. I hope... 我希望
+I hope our dreams come true. 我希望我们的梦想成真。
+
+*** 13. I'm looking forward to... 我期待；我期望
+I'm looking forward to seeing you. 我期望见到你。
+
+*** 14. I'm supposed to... 我应该
+I'm supposed to go on a diet/get a raise. 我应该节食/涨工资。
+
+*** 15. I heard... 我听说
+I heard that you're getting married. Congratulations! 听说你要结婚了，恭喜恭喜!
+
+*** 16. I see... 我知道
+I see what you mean. 我了解你的意思。
+
+*** 17. I can't... 我不能……
+I can't do this. 我不能这么做。
+
+*** 18. Let me... 让我
+Let me explain why I was late. 让我解释迟到的理由。
+
+*** 19. Let's...! 让咱们……吧!
+Let's have a beer or something. 咱们喝点啤酒什么的。
+
+*** 20. Where is...?
+Where is your office? 你们的办公室在哪里？
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_01_sentencePattern_21_40.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+*** 21. What is...? ……是什么？
+What is you plan? 你的计划是什么？
+
+*** 22. When is...? 什么时候……？
+When is the store closing? 这家店什么时候结束营业？
+
+*** 23. Would you care to...? 要不要……
+Would you cara to see it/sit down for a while? 你要不要看/坐一会儿呢？
+
+*** 24. Are you sure...? 你肯定……吗？
+Are you sure you can come by at nine? 你肯定你九点能来吗？
+
+*** 25. Am I allowed to...? 我可以……吗？
+Am I allowed to stay out past 10? 我可以十点过后再回家吗？
+
+*** 26. be scheduled to... 排定时间或日期
+The meeting was scheduled for two hours, but it is not over yet. 会议原定了两个小时，不过到现在还没有结束。
+
+*** 27. birthday is... 生日是在……
+Tom's birthday is this week. 汤姆的生日就在这个星期。
+
+*** 28. Can you...? 能请你……吗？
+Can you cover for me on Friday/help me/tell me how to get there? 星期五能不能请你替我个班/你能帮我吗/你能告诉我到那里怎么走吗？
+
+*** 29. Could you... 能否请你……
+Could you do me a big favor? 能否请你帮我个忙？
+
+*** 30. crazy about... 对……很着迷
+He is crazy about Crazy English. 他对疯狂英语很着迷。
+
+*** 31. Can you imagine...? 你能想像……吗？
+Can you imagine how much he paid for that car? 你能想像他那部车付了多少钱吗？
+
+*** 32. Can you believe...? 你相信……？
+Can you believe that I bought a TV for $25? 你相信我用25美元买了一台电视吗？
+
+*** 33. Did you know...? 你知道……吗？
+Did you know he was having an affair/cheating on his wife? 你知道他有外遇了吗/欺骗他的妻子吗？
+
+*** 34. Did you hear about...? 你听说……了吗？你知道……吗？
+Did you hear about the new project? 你知道那个新项目吗？
+
+*** 35. Do you realize...? 你知道……吗？
+Do you realize that all of these shirts are half off? 你知道这些衬衫都卖半价吗？
+
+*** 36. Do you mind if I...? 你介意……吗？
+Do you mind if I take tomorrow off? 你介意我明天请假吗？
+
+*** 37. enjoy... 很喜欢……
+I enjoy working with you very much. 我很喜欢和你一起工作。
+
+*** 38. ended up... 最终是……
+Did you know that Stone ended up marrying his secretary? 你知道吗？石头最终和他的秘书结婚了。
+
+*** 39. get together... 聚在一起……
+Let's get together for lunch. 让我们聚在一起吃顿午餐吧。
+
+*** 40. getting...for... 获得……以作为……
+I'm getting a new computer for birthday present. 我得到一台新电脑，作为我的生日礼物。
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_01_sentencePattern_41_60.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+*** 41. How did you do on...? 你……的表现如何？
+How did you do on your test? 你这次考试的结果如何？
+
+*** 42. Do you think...? 你认为……?
+Do you think you can come? 你认为你能来吗？
+
+*** 43. How was...? ……还好吧？
+How was your weekend? 你周末过得怎么样？
+
+*** 44. Here... 在这里，这是……
+Here is my card. 这是我的名片。
+
+*** 45. be used to... 他习惯于……
+He is used to eating out all the time. 他已经习惯了在外面吃饭。
+
+*** 46. Have you ever...? 你有没有……？
+Have you ever driven a BMW? 你有没有开过"宝马"？
+
+*** 47. How about...?……怎么样？
+How about if we go tomorrow instead? 我们改成明天去怎么样？
+
+*** 48. How do you like...? 你喜欢……吗？
+How do you like Hong Kong? 你喜欢香港吗？
+
+*** 49. How do you want...? 你要怎么样的……？
+How do you want your steak? 你的牛排要几分熟？
+
+*** 50. How did...do...? 如何做到……？
+How did Mary make all of her money? 玛丽所有的钱是怎么赚到的？
+
+*** 51. How did...? ……进行得怎么样？
+How did the game turn out? 球赛结果怎么样？
+
+*** 52. How was...? ……怎么样？
+How was your date? 你的约会怎么样？
+
+*** 53. How are you doing with...? ……做得如何？
+How are you doing with your new boss? 你跟你的新上司处得如何？
+
+*** 54. How should I...? 我该如何……？
+How should I tell him the bad news? 我该如何告诉他这个坏消息？
+
+*** 55. How much...? 多少……？
+How much money did you make? 你赚了多少钱？
+
+*** 56. How much does it cost to...? ……要多少钱？
+How much does it cost to go abroad? 出国要多少钱？
+
+*** 57. How long will it take to...? 去……要多久？
+How long wil it take to get to your house? 到你家要多久？
+
+*** 58. How long have you...? 你……多久了？
+How long have you been here? 你在这里多久了？
+
+*** 59. How...! 多么……!
+How nice/pretty/cold/funny/stupid/boring/interesting!...
+
+*** 60. How about...? ……如何？……怎么样？
+How about going out for dinner? 出去吃晚餐如何？
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_01_sentencePattern_61_80.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+*** 61. I'm sorry... 我对……很遗憾难过。
+I'm sorry that you didn't get the job. 很遗憾，你没有得到那份工作。
+
+*** 62. I'm afraid... 我恐怕……
+I'm afraid that it's not going to work out. 我恐怕这事不会成的。
+
+*** 63. I guess... 我想……
+I guess I could come over. 我想我能来。
+
+*** 64. Is it okay to...? ……可以吗？
+Is it okay to smoke in the office? 在办公室里抽烟可以吗？
+
+*** 65. It was kind of... 有一点……
+It was kind of exciting. 有一点刺激。
+
+*** 66. I know what... 我知道……是什么。
+I know what you want. 我知道你想要什么。
+
+*** 67. Is that why...? 就是这个缘故才导致……吗？
+Is that why you don't want to go home? 就是这个缘故，你才不想回家的吗？
+
+*** 68. I'm sure... 我很肯定……
+I'm sure we can get you a great/good deal. 我很肯定我们可以帮你做成一笔好交易。
+
+*** 69. help...with... 帮忙做……
+Would you help me with the report? 你愿意帮我写报告吗？
+
+*** 70. I didn't know... 我不知道
+I didn't know he was the richest person in the world. 我不知道他是全世界最有钱的人。
+
+*** 71. I'll have to... 我必须……
+I'll have to ask my boss/wife first. 我必须先问一下我的老板/老婆。
+
+*** 72. I take it... 这么说来，我认定你是……
+I take it you don't agree. 这么说来，我认为你是不同意。
+
+*** 73. I tried... 我试过……
+I tried losing weight, but nothing worked. 我曾试着减肥，但是毫无效果。
+
+*** 74. It makes no sense to... 做……丝毫不可理解
+It doesn't make any sense to get up so early. 那么早起来，没有任何意义。
+
+*** 75. It feels like... 它感觉上像是……
+It feels like spring/I've been here before. 感觉好像春天到了/感觉好像我以前来过这里。
+
+*** 76. It took...表示时间的词...to... 做某事花了时间
+It took years of hard work to speak good English. 讲一口流利的英语需要多年的刻苦操练。
+
+*** 77. I wonder if... 我在想是否……
+I wonder if they can make it. 我在想他们是不是能办得到。
+
+*** 78. It's not as...as... 它不像……一样……
+It's not as cold/hot as it was yesterday. 今天的天气不像昨天的那么冷/热。
+
+It's not as easy as you think. 它不像你想象的那么容易。
+
+*** 79. It's not..., it's... 不是……的问题，而是……
+It's not his work that bothers me it's his attitude. 因扰我的不是他的工作，而是他的态度。
+
+*** 80. It sounds... 听起来……
+It sounds like you enjoyed it. 听起来你好像蛮喜欢的。
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_01_sentencePattern_81_101.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+*** 81. It seems... 好像……
+It seems to me that he would like to go back home. 我觉得他好像想要回家。
+
+*** 82. It looks... 看起来……
+It looks very nice. 看起来很漂亮。
+
+*** 83. Is everything...? 一切都……吗？
+Is everything under control? 一切都在掌握之中吗？
+
+*** 84. I thought... 我以为……
+I thought you could do a better job. 我以为你的表现会更好。
+
+*** 85. It's time to... 是……的时候了。
+It's time for us to say "No" to America. 是我们对美国说“不”的时候了。
+
+*** 86. It's supposed to... 那应当是……
+The show is supposed to be good. 这场表演应当是相当好的。
+
+*** 87. It really depends on... 那全看……情况而定。
+It really depends on who is in charge. 那纯粹要看谁负责了。
+
+*** 88. It involves a lot of... 那要牵涉到很多……
+It involves a lot of hard work. 那需要很多的辛勤工作。
+
+*** 89. in...favor 对……有利
+That might be in your favor. 那可能对你有利。
+
+*** 90. I didn't realize... 我不知道……
+I didn't realize how much this meant to you. 我不知道这个对你意义有多大。
+
+*** 91. I didn't mean to... 我不是故意……
+I didn't mean to offend you. 我不是故意冒犯你。
+
+*** 92. I was wondering if... 我想知道……
+I was wondering if you were doing anything this weekend. 我想知道这个周末你有什么要做。
+
+*** 93. May I...? 我可以……吗？
+May I have you attention, please? 请大家注意一下。
+
+*** 94. This is great...weather. 这是个……的好天气。
+This is great golfing/swimming/picnic weather. 这是个打高尔夫球/游泳/野餐的好天气。
+
+*** 95. Thanks for... 谢谢你……
+Thanks for taking me to the movie. 谢谢你带我去看电影。
+
+*** 96. too...to... 太……以致于不能……
+I am too tired to speak. 我累得说不出话来。
+
+*** 97. There is... 有……
+There is a TV show about AIDS on right now. 电视正播映一个有关爱滋病的节目。
+
+*** 98. Would you...? 你能……
+Whould you tell me your phone number? 你能告诉我你的电话号码吗？
+
+*** 99. Where did you...? 你从哪里……呢？
+Where did you learn to speak English? 你从哪里学会说英语的呢？
+
+*** 100. What do you think of...? 你认为……如何？
+What do you think of his new job/this magazine? 你对他的新工作/这本杂志看法如何？
+
+*** 101. What makes you…? 什么事让你……呢？
+What makes you change your mind? 什么事让你改变了主意？你不是说这一次学英语一定要坚持到底吗？！
+
+** 第二节：一百个超级短句
+— 来回狂读，溶入血液，脱口而出，一步登天！
+-----
+
+#+BEGIN_EXPORT html
+<div style="padding: 32px">
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_02_100superShortSentences.mp3" />
+</audio>
+</div>
+
+<div style="border:1px solid #444444; padding: 7px 20px; width:100%">
+If you learn the following sentences and nothing else you will be able to communicate with no problem! Besides, you can try to teach these sentences to foreigners to help them communicate while they are in China. You will make friends and money. You'll gain valuable experience and a lot of confidence.
+</div><br /><br />
+#+END_EXPORT
+
+*** 1. Absolutely not. 绝对不是。
+*** 2. Are you coming with me? 你跟我一起去吗？
+*** 3. Are you sure? 你能肯定吗？
+*** 4. As soon as possible. 尽快。
+   A: When does this work need to be finished? 这工作需要什么时候完成？
+
+   B: As soon as possible. 尽快。
+*** 5. Believe me. 相信我。
+*** 6. Buy it! 买下来!
+*** 7. Call me tomorrow. 明天打电话给我。
+*** 8. Can you speak slowly? 请您说得慢些好吗。
+*** 9. Come with me. 跟我来？
+*** 10. Congratulations! 恭喜恭喜。
+*** 11. Do it right. 把它做对。
+*** 12. Do you mean it? 你是当真的吗？
+*** 13. Do you see him often? 你经常见到他吗？
+*** 14. Do you see it? Do you understand? 你明白了吗？
+*** 15. Do you want it? 你要吗？
+*** 16. Do you want something? 你想要些什么？
+*** 17. Don't do it. 不要做。
+*** 18. Don't exaggerate. 不要夸张。
+*** 19. Don't tell me that. 不要告诉我。
+  A: We have to attend a boring meeting tomorrow. 明天我们要参加一个枯燥的会议。
+
+  B: Don't tell me that. I wanted to relax and go shopping. 不要告诉我，我想轻松一下，上街去购物。
+*** 20. Give me a hand. 帮我一下。
+*** 21. Go right ahead. 一直往前走。
+*** 22. Have a good trip. 祝旅途愉快。
+*** 23. Have a nice day. 祝你一天过得愉快。
+*** 24. Have you finished? 你做完了吗？
+*** 25. He doesn't have time. 他没空。
+*** 26. He is on his way. 他现在已经在路上了。
+*** 27. How are you doing? 你好吗？
+*** 28. How long are you staying? 你要呆多久？
+*** 29. I am crazy about her. 我对她着迷了。
+*** 30. I am wasting my time. 我在浪费时间。
+*** 31. I can do it. 我能做的。
+*** 32. I can't belive it. 我简直不能相信。
+  A: Stone was thrown into jail last night! 石头昨晚进了监狱。
+
+  B: I can't believe it! He's such a great guy. This news will kill his mother! 我简直不敢相信！他是个多么了不起的人！这消息会让他妈发疯的。
+*** 33. I can't wait. 我不能再等了。
+*** 34. I don't have time. 我没有时间。
+*** 35. I don't know anybody. 我一个人都不认识。
+*** 36. I don't like it. 我不喜欢。
+*** 37. I don't think so. 我认为不是。
+*** 38. I feel much better. 我感觉好多了。
+*** 39. I found it. 我找到了。
+*** 40. I hope so. 我希望如此。
+*** 41. I knew it. 我早知道了。
+*** 42. I noticed that. 我注意到了。
+*** 43. I see. 我明白了。
+*** 44. I speak English well. 我英语说得很好。
+*** 45. I think so. 我认为是这样的。
+*** 46. I want to speak with him. 我想跟他说话。
+*** 47. I won. 我赢了。
+*** 48. I would like a cup of coffee, please. 请给我一杯咖啡。
+*** 49. I'm hungry. 我饿死了。
+*** 50. I'm leaving. 我要走了。
+*** 51. I'm sorry. 对不起。
+*** 52. I'm used to it. 我已经习惯了。
+*** 53. I'll miss you. 我会想念你的。
+  A: I'm leaving for Hong Kong tomorrow. 我明天去香港。
+
+  B: I'll miss you. 我会想你的。
+*** 54. I'll try. 我试试看。
+*** 55. I'm bored. 我很无聊。
+*** 56. I'm busy. 我很忙。
+*** 57. I'm having fun. 我玩得很开心。
+*** 58. I'm ready. 我准备好了。
+*** 59. I've got it. 我明白了。
+*** 60. I've had it. 我受够了。
+*** 61. It's incredible! 真是难以置信！
+*** 62. Is it far? 很远吗？
+*** 63. It doesn't matter. 没关系。
+*** 64. It smells good. 闻起来很香。
+*** 65. It's about time. 是时候了。
+*** 66. It's all right. 没关系。
+*** 67. It's easy. 很容易。
+*** 68. It's good. 很好。
+*** 69. It's near here. 离这里很近。
+*** 70. It's nothing. 没什么。
+*** 71. It's time to go. 该走了。
+*** 72. It's different. 那是不同的。
+*** 73. It's funny. 很滑稽。
+*** 74. It's impossible. 那是不可能的。
+*** 75. It's not bad. 还行。
+  A: What do you think about the used car I just bought? 你觉得我刚买的那部旧车如何？
+
+  B: It's not bad. 还行。
+*** 76. It's not difficult. 不难。
+*** 77. It's not worth it. 不值得。
+*** 78. It's obvious. 很明显的。
+*** 79. It's the same thing. 还是一样的。
+*** 80. It's your turn. 轮到你了。
+*** 81. Let me know. 告诉我。
+*** 82. Let me see. 让我想一想。
+*** 83. Me too. 我也一样。
+*** 84. Not yet! 还没有！
+*** 85. Relax! 放松！
+*** 86. See you tomorrow. 明天见。
+*** 87. She is my best friend. 她是我最好的朋友。
+*** 88. She is so smart. 她真聪明。
+*** 89. Show me. 指给我看。
+*** 90. Tell me. 告诉我。
+*** 91. Thank you very much. 多谢。
+*** 92. That happens. 这样的事情经常发生。
+  A: I can't believe that I called my girlfriend/wife/father the wrong name. 我不敢相信我竟然叫错了女朋友/妻子/父亲的名字。
+
+  B: That happens. 这种事情经常发生。
+*** 93. That's enough. 够了。
+*** 94. That's interesting. 很有趣。
+*** 95. That's right. 对了。
+*** 96. That's true. 这是真的。
+*** 97. There are too many people here. 这里人太多。
+*** 98. They like each other. 他们互相倾慕。
+*** 99. Think about it. 考虑一下。
+*** 100. Too bad! 太糟糕啦!
+*** 101. Wait for me. 等等我
+*** 102. What did he say? 他说什么？
+*** 103. What do you think? 你认为怎样？
+*** 104. What is he talking about? 他在说些什么？
+*** 105. What terrible weather! 多坏的天气！
+*** 106. What's going on/What's happening/What's the problem? 怎么样啦？
+*** 107. What's the date today? 今天几号？
+*** 108. Where are you going? 你去哪里？
+*** 109. Where is he? 他在哪里？
+*** 110. You are impatient. 你太性急了。
+  A: I don't think my daughter will ever learn to speak English! 我觉得我女儿不可能学会说英语了！
+
+  B: I think you're too impatient. She's only three years old! 你太性急了。她才三岁！
+*** 111. You look tired. 你看上去很累。
+*** 112. You surprise me. 你让我大吃一惊。
+*** 113. You're crazy. 你疯了。
+*** 114. You're welcome. 别客气
+*** 115. You're always right. 你总是对的。
+*** 116. You're in a bad mood. 你心情不好。
+*** 117. You're lying. 你在撒谎。
+*** 118. You're wrong. 你错了。
+** 第三节：一个最疯狂，最典型的美国发音
+— 50 个句子，让你练得口干舌燥！
+-----
+
+#+BEGIN_EXPORT html
+<div style="padding: 32px">
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_03_exaggerate_1.mp3" />
+</audio>
+</div><br />
+
+<strong>Greatest Sentences Ever to Practice [æ] Sound</strong>
+<br /><br />
+#+END_EXPORT
+
+*** 1. If you exaggerate, you will sound fantastically American! 如果将发音夸大一些，你听起来会美国味十足！
+*** 2. 👇
+A: My exam was a disaster. 我的考试简直是一塌糊涂。
+
+B: You didn't pass? That's too bad. You'll have another chance. 你没有通过吗？太
+遗憾了。你会有另外一个机会的。
+
+A: No. That was my last chance. 不，那是我最后一次机会。
+*** 3. That's a fact. 那是事实。
+*** 4. Saturday I am planning to go dancing. 星期六我计划去跳舞。
+*** 5. I am happy/glad to have you back from Japan. 我很高兴你从日本回来。
+*** 6. That man/actor had a bad accent and bad grammar. 那个男人/演员口音很糟糕，且语法错误很多。
+*** 7. 👇
+There was a bad traffic accident. 发生了一起糟糕的交通事故。
+
+That hacker ran into the back of my van and killed my cat. 出租车撞到了我面包车的后背，撞死了我的猫。
+
+Too bad it wasn't my wife because I loved my cat. 太遗憾了，死的不是我太太，因为我爱我的猫。
+*** 8. Don't laugh behind other people's back. 不要在背后取笑别人。
+*** 9. Come back after you finish your math exam. 完成数学测验之后回来。
+*** 10. My grandfather was a bad man, and he treated my grandmother very badly. 我的祖父是个坏人，他对祖母非常不好。
+*** 11. I'm so glad that nothing bad has happened. 我很高兴没发生什么糟糕的事情。
+*** 12. As a matter of fact, I think he is an asshole『讨厌的人；肛门；屁眼儿』. 事实上，我认为他是个混蛋。
+*** 13. Look at that fat ass on that fat man. 看看那个胖子的屁股多大。
+*** 14. You're not such a had apple/bad egg after all. 你毕竟还不是太坏。
+*** 15. There's always a bad apple in every class. 每个班都有几粒老鼠屎。
+*** 16. Good employees get a pat on the back, while good secretaries get a pat on the ass. 员工表现得好老板会拍拍他的背，而秘书做得好老板则会拍拍她的屁股。
+*** 17. She deserves a pat on the back. 她应该得到表扬。
+*** 18. Pats on the back weren't enough, he wanted fast cash. 只有表扬是不够的，他要的是看得见、摸得着的现金。
+*** 19. These back-to-back appointments are giving me a heart attack/killing me/affecting my health. 这一连串的约会使得我疲于奔命。
+*** 20. Back-to-back defeats made him sad. 连续的失败使他很伤心。
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_03_exaggerate_2.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+*** 21. Stop picking on me and get off my back. Man! I've had it. 别再对我进行挑剔，别再找我麻烦了。我受够了！
+*** 22. Get off my back, will ya? I'll do it when I have time. 别罗嗦了，好不好？我有时间就去做。
+*** 23. Get your crap off my bed! 把你那些乱七八糟的东西从我床上搬走。
+*** 24. Laughter has no foreign accent. 笑声没有外国口音。
+*** 25. Such men are the backbone『骨干；支柱；基础』of the country. 这样的人是国家的栋梁。
+*** 26. Selfishness and unhappiness often go hand in hand. 自私的人通常无幸福可言。
+*** 27. He who laughs last laughs best. 谁笑到最后，谁就笑得最好。
+*** 28. The voters had a backlash against rising gas taxes. 投标人强烈反对增加汽油税。
+*** 29. A bad black man tried to crash the rally, but my dad called the cops. 一个黑人坏蛋企图要混进我们的聚会，我父亲打电话叫来了警察。
+*** 30. The manager was hired at a handsome salary. 这个经理被高薪聘用。
+*** 31. We must take action before it is too late. 我们必须及早采取行动。
+*** 32. Actions are more important than words. 行动胜似语言。
+*** 33. That man is always handing out『给予』unwanted advice. 那个人总是给别人没有用的建议。
+*** 34. We handed in our exams at the last minute of the class. 在下课的最后时刻，我们交了考试卷。
+*** 35. The two brothers worked hand in hand. 两兄弟携手合作。
+*** 36. The family went to the graduation at Stanford. 全家人去斯坦福大学参加了毕业典礼。
+*** 37. I ran as fast as I could. 我跑得不能再快了。
+*** 38. We had to act fast. 我们不得不尽快行动。
+*** 39. It happened in the past. 它发生在过去。
+*** 40. Don't miss your last chance. 不要错过最后的机会。
+*** 41. It is absolutely impossible to cure AIDS. 要治愈艾滋病是绝对不可能的。
+*** 42. We will have a fat chance to win the game on Saturday. 我们几乎没有可能赢得星期六的比赛。
+*** 43. Casual dress is becoming more and more fashionable. 休闲服装变得越来越流行了。
+*** 44. The match won't catch. 这火柴擦不着。
+*** 45. The dog went after a rabbit but didn't catch it. 狗追兔子，但没有逮住兔子。
+*** 46. The mad dog ran past Dan. 那疯狗从丹身边跑过。
+*** 47. Alice dashed to the back of the shack『简陋木屋』to stash『 藏匿；存放』the bag. 艾丽斯跑到小木屋后面把包藏起来。
+*** 48. Stan took a rabbit from his magic hat. 斯坦从他的魔术帽里把兔子拿出来。
+*** 49. 👇
+A: Damn it. 混蛋。
+
+B: Watch your mouth! 嘴巴放干净一点。
+
+A: I learned that bad habit from you. You should have watched your mouth first. 这个坏习惯是你传给我的。你要先注意自己。
+
+#+BEGIN_EXPORT html
+<div style="border:1px solid #444444; padding: 7px 20px; width:100%">
+<b>nasty</b>: dirty, bad, unpleasant, disgusting, unkind, offensive, bad to deal with or experience.
+</div><br /><br />
+#+END_EXPORT
+
+*** 1. a nasty mind 卑鄙肮脏的思想
+*** 2. nasty language 污秽不堪的语言
+*** 3. live a cheap and nasty life 过低贱的生活
+*** 5. It's a tacky, nasty little movie. 这是一部庸俗下流不值一看的电影。
+*** 6. a nasty smell 难闻的气味
+*** 7. a nasty taste 难吃的味道
+*** 8. cold, wet, nasty weather 寒冷多雨的恶劣天气
+*** 9. a nasty habit 恶心
+*** 10. a nasty temper 臭脾气
+*** 11. a nasty attack of cough 一阵剧烈的咳嗽
+*** 12. a nasty accident 严重的事故
+*** 13. a nasty look in his eyes 眼露凶光
+*** 14. a nasty room 脏乱的房间
+*** 15. a nasty book 下流书
+*** 16. say nasty things about sb 恶语中伤某人
+** 第四节：四星级 五星级 六星级单词全面奉献
+超级六星级动词
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_04_456_accomplish.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+**accomplish**
+
+to succeed in doing; finish successfully; complete. 做成功；完成；实现；达成
+
+#+BEGIN_EXPORT html
+<div style="border:1px solid #444444; padding: 7px 20px; width:100%">
+All the following sentences may seem very difficult.<br />
+That's because "accomplish" is a six-star word and six-star words are only found in challenging sentences!<br />
+With a little hard work and determination you can accomplish your goal of mastering them all.<br />
+</div><br />
+#+END_EXPORT
+
+1. They accomplished their mission. 他们完成了使命。
+
+2. A lazy man can never accomplish anything. 懒惰的人永远一事无成。
+
+3. We tried to arrange a peace agreement, but accomplished nothing. 我们试图达成和平协议，但毫无成效。
+
+4. She's accomplished a lot/great deal in the last few weeks. 她在前几个星期里做成了很多事情。
+
+5. The task of modernization will not be accomplished in one generation. 现代化的任务不是一代人所能完成的。
+
+6. How did they accomplish so much so quickly? 他们何以能如此迅速地取得这么巨大的成就？
+
+7. I don't think our President's visit to Japan really accomplished anything. 我认为我们总统访日并未取得什么真正成效。
+
+8. Crazy English is the best method to accomplish your goal of conquering English. 疯狂英语是实现征服英语这一目标的最好方法。
+
+9. We can absolutely accomplish whatever you can with better and quicker results. 你们能做到的事情，我们也能做到，而且会做得更快更好。
+
+10. We need capable and experienced hands, ideas just don't accomplish themselves. 我们需要有能力和经验的老手，只有想法并不能成事。
+
+11. Frankly speaking, I don't see what you can possibly accomplish here. 坦率地说，我看不出你在这儿能干出什么来。
+
+12. All this work was accomplished in a week. 所有这些工作都是在一个星期内完成的。
+** 第五节：语法大战
+— 两篇文章让你吃透两条语法
+-----
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_05_grammar.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+**第 1 篇：巨大的进步**
+
+**A Big Improvement**
+
+Paul recently completed/finished a Crazy English class, and he's very proud of
+the results.
+
+保罗最近结束了疯狂英语的课程，他为自己的成绩感到骄傲。
+
+His family has noticed that he's speaking English more loudly, more clearly,
+more fluently and more confidently than ever before.
+
+他的家人发现他在说英语时，比以往更大声，更清楚，更流利，而且更加自信。
+
+His boss has noticed that he's more effective and successful in his work.
+
+他的老板发觉他在工作中更有效率和更成功了。
+
+All his friends tell him that he's friendlier, less shy and more outgoing than
+before.
+
+他所有的朋友都告诉他他变的比以前更友好，更直爽，胆子也大了。
+
+And Paul himself has noticed that he's more comfortable and relaxed when he
+speaks in front of people. and he's even enjoying himself more at parties.
+
+保罗自己也发现他在众人面前说英语时，愈加轻松自如。甚至在派对上也玩得更开心。
+
+Paul is feeling much better about himself these days. That's why he's now
+recommending Crazy English to everybody he knows.
+
+保罗这些天自我感觉很好。这就是他现在向所有认识的人推荐“疯狂英语”的原因。
+
+Feeling good about yourself is the key to a happier and more productive life.
+
+自我感觉良好是拥有快乐和更有成绩感的生活的关键。
+
+Being a good English speaker will definitely make you feel good about yourself.
+
+作为一个口语流利者你一定会有一种全新的感觉。
+
+**第 2 篇：辛劳的回报**
+
+**Hard Work Pays Off**
+
+2000 was a great year for Donna.
+2000 年对唐娜来说真是太幸运了。
+
+In January she was hired by the Stone-Cliz International English Promotion Company as a personal assistant.
+
+她一月份被 Stone-Cliz 国际英语推广公司聘为私人助理。
+
+In Marych she was sent to school by the company to study information management.
+
+三月份，公司派她去学习信息管理。
+
+In April she was given a raise.
+
+四月，获得了一次加薪。
+
+Just one month later, she was promoted to the position of supervisor of her
+department.
+
+就在一个月以后，她又被提升为所在部门的主管。
+
+In July she was chosen "Employee of the Month".
+
+七月份，她被评选为“本月最佳员工”。
+
+In September she was given another raise.
+
+九月，她再一次得到了加薪。
+
+In October she was invited to apply for a position in the company's overseas
+office in New York.
+
+在十月她获得一次机会申请公司驻纽约的海外办事处的职位。
+
+And in December she was given the new job and flown to America to begin to work.
+
+十二月，唐娜获得那份工作，并动身飞往美国走上了她的新的工作岗位。
+
+Donna certainly has had a very incredible year.
+
+这对唐娜来说当然是不可思议的一年。
+
+She can't believe all the amazing things that have happened to her since she was
+hired just one year ago.
+
+她不敢相信自己遇到那么多幸运的事情她才被聘用一年。
+
+You see, hard work and devotion paid off for Donna.
+
+你瞧，全身心投入工作换来了唐娜的的成就。
+
+She knows the golden rule "you must give to receive".
+
+她深知为人的黄金准则，那就是“有付出才有收获”。
+
+She gave one hundred percent effort to her job and reached unbelievable success!
+
+她对工作付出了百分之百的努力，也取得了令人难以置信的成功。
+** 第六节：三最短文
+— 江泽民主席接受美国《新闻周刊》采访
+-----
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_06_3_ly.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+Q: What impressed you during your U.S. visit? 此次美国之行有什么令您印象深刻？
+
+A: What impressed me most was that wherever I went, I was received in a very
+friendly manner by the American people.
+
+令我印象最深的是，无论走到哪里，我都得了美国人民非常友好的接待。
+
+And I was given a very warm reception by the U.S. government, and the various
+non-governmental organizations.
+
+美国政府给予我极其热情的接待，和各种非政府组织给予热情的款待。
+
+And I was able to have very sincere and candid conversations with people from
+various walks of life including government officials.
+
+同时还有机会进行既真诚又坦率的谈话，包括政府官员在内的各界人士。
+
+And these exchanges of views have proven very helpful in promoting mutual
+understanding between the two sides.
+
+所有这些观点的交流已经证实是非常有助于促进两国之间的相互了解。
+** 第七节：生活实际问题
+— 单相思，我该怎么办？（unrequited love 单恋）
+-----
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_07_unrequited_love.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+Dear Miss Know-it-all
+
+亲爱的万事通先生
+
+In 1997, when I was finishing college, I met a beautiful girl and we became good
+friends.
+
+在我 1997 年大学毕业之际，我遇上了一位漂亮的女孩并成为了好朋友。
+
+After graduation we kept in touch through letters
+
+毕业后，我们一直保持着书信来往。
+
+Gradually I found I was in love with her.
+
+渐渐地，我发觉我爱上了她。
+
+As a result, I refused the advances of another woman I knew in my office, and at
+that point, I realized I should make my feelings known to the woman I loved.
+
+结果，我拒绝了办公室一位女孩的求爱，与此同时，我认识到应该让我所爱的人知道我的感情。
+
+I wrote a letter to her expressing my love. She responded right away.
+
+于是，我写了一封信向她表达我的爱意。她很快就给我回信了。
+
+To my great disappointment, she refused my love, saying she had always thought
+of me as her big brother, and that she just enjoyed exchanging ideas and
+thoughts with me.
+
+让我失望至极的是，她拒绝了我。她说，她一直都把我当成是大哥哥，只是喜欢与我交流思想而已。
+
+I am in so much pain now and don't know what to do.
+
+我现在伤心极了，不知道如何是好。
+
+Should I continue to keep in touch with her or forget her and disappear from her
+life?
+
+我应该继续与她联系呢？还是忘记她、从她的视线中消失？
+
+I hope that I can get some advice from big sister Miss Know-it-all. 我希望万事通
+大姐能给我一些建议。
+
+-----
+
+Dear Li Yang
+
+亲爱的李阳
+
+On a pain scale of one to ten, unrequited love, or love that is given but not
+returned can be right up there just above an operation or a visit to the
+dentist. It is much worse than both. Medical procedures tend to heal
+quickly. But broken hearts can take years to heal and sometimes never do.
+
+在大大小小的痛楚中，单相思或没有回报的爱所带来的痛楚和手术或看牙医后的痛相比，前
+两者更甚于后两者。医疗手段可以很快治愈肉体的创伤，而破碎的心却需要多年才能复原，
+有时甚至终生也难以愈合。
+
+Most of us have our first run in/encounter/experience with unrequited love in
+our late teens during high school.
+
+大多数人都有过十八九岁在学校里时单相思的经历。
+
+We watch from afar as our truly beloved wanders the halls of the school.
+
+远远地看着自己所爱的人在学校大礼堂漫步。
+
+We make every effort to spend as much time with that person as possible.
+
+想方设法地尽可能与心仪的人呆在一起。
+
+We also make every effort to be sure that person does not know how in love we
+really are.
+
+我们也会力图把爱埋在心底，不让对方知道我们是多么的爱她。
+
+But that is no way to go through life.
+
+然而，我们总不能就这样度过一生。
+
+So then comes the inevitable/unavoideble day when we have watched "Titanic" too
+many times or listened to too much Celine Dion, and we get up our courage and go
+to them in a dramatic flurry, and confess our true feelings.
+
+因此，在那个迟早都要面临的日子里当看了无数次“铁达尼号”和听了无数遍席林迪翁的歌以
+后，我们终于鼓起勇气在忐忑不安中走向她们，袒露我们的情感。
+
+A couple of hours later it is all over with, and all we want to do is turn back
+time and go back to admiring them from afar.
+
+几小时之后，一切都已结束，我们唯一所希望的就是让时光倒流，回到远远地赞赏她们的那个时候。
+
+We want to go back to the sweet taste of our fantasies, thinking how wonderful
+it will be when we can be together.
+
+回到我们甜美的梦境中，想着有多么的美妙能与她在一起。
+
+We want to go back there because rejection leaves a bad taste in our mouths that
+we can never quite get rid of.
+
+我们想回到从前，只因她的拒绝在我们心中留下的阴影挥之不去。
+
+My advice to you is let her go. You can't force her to fall in love with you.
+
+我的建议是由她去。你不可能强迫她爱上你。
+
+The only thing wrose is begging her to love you.
+
+更差的是企求她爱你。
+
+It is difficult for me to even advise you to maintain your good friendship with
+her, because much like being on teeter-totter with someone heavier than
+yourself, things will just never be even/balanced/equal.
+
+我甚至难以建议你继续保持与她的友谊，因为对我来说这是一件很难的事，这叫你与一个比
+你重许多的人玩跷跷板没什么区别，结果都是不可能的。
+
+I hope you feel better and I wish you the best of luck!
+
+希望我所说的对你有帮助，祝你好运！
+
+Sincerely,
+Miss Know-it-all
+** 第八节：成语的挑战
+— 英语真正突破和成功的开始
+-----
+
+#+BEGIN_EXPORT html
+<audio preload="none" style="width: 100%;" controls="controls">
+<source type="audio/mpeg" src="./recording/02_08_proverb.mp3" />
+</audio><br /><br />
+#+END_EXPORT
+
+I'm sick and tired of having to support of my brother/husband just because he
+refuses to go out and find a job.
+
+我已经烦透照顾我弟弟/丈夫了，只因为他不肯出去找工作。
+
+**Going Out for the Evening 晚上外出**
+
+A: Let's go to the movies. There's a good one playing now.
+
+去看电影吧，有部好片子正在放映。
+
+B: I'd like to, but I can't. I really have to study. I wasted the whole
+afternoon, I forgot I had to brush up on my English, Then, all of a sudden I
+remembered.
+
+我想去，但是不行，我要学习。我已经浪费了一个下午，我忘记温习英语了，我突然才想起。
+
+A: Oh, come on! We'll be home early/before 11.
+
+噢，走吧！我们会早点儿回家/十一点之前回来。
+
+B: No, I'd better not. I have a big exam tomorrow. I was about to study when you
+came in. You know how it is, If you don't study, you don't pass. That goes
+without saying.
+
+不，我不能这样。我明天有一个考试。你进来的时候我正要开始学习呢。你也知道的，如果不准备的话，毫无疑问会通过不了。
+
+A: Exam? Tomorrow? Oh-oh!
+
+考试？明天？噢噢！
+
+B: What's the matter/What's wrong?
+
+怎么啦？
+
+A: I just remembered. I have a test, too!
+
+我刚记起我明天也有考试!
+
+B: We can go to the movies some other time.
+
+我们可以下次去看电影嘛。
+
+-----
+
+*** 第一笔财富：
+
+brush up on something: review something to make it fresh again in one's mind.
+
+提高；改进；重温；再练
+
+**** They came here to brush up on technology.
+他们来此以求提高技术。
+**** I really need to brush up on my English.
+我确实需要提高我的英语水平。
+**** I'm going to give a speech tomorrow, so I have to brush up on my notes.
+明天我要进行一场演讲，因此，我必须整理一下我的笔记。
+**** Professor Wang had not given a talk on management for a long time, so he had to brush up on some of the new ideas.
+王教授很久没有讲授管理方面的课程了，他必须学习研究一下一些新的发展。
+*** 第二笔财富：
+
+all of a sudden: something happening quickly; without advance warning.
+
+（口语）突然；忽然；出其不意地；冷不防
+
+**** Lisa looked very sad, but then, all of a sudden, she began to laugh.  
+丽萨看起来很悲伤，但突然她大笑起来。
+
+**** All of a sudden, she burst into laughter.  
+她突然大笑起来。
+
+**** They were sitting quietly when all of a sudden there was a loud noise.  
+他们正静静地坐着，突然传来一声巨响。
+
+**** It started out to be a sunny day. Then, all of a sudden, it became cloudy and began to rain.
+天本来晴朗，突然变得多云开始下起雨。
+
+*** 第三笔财富：
+
+had better('d better): should do something; ought to do something.
+
+最好……；应该……
+
+**** You had better not go out today.  
+今天你最好不要外出。
+
+**** I think we'd better discuss it more.  
+我认为我们应该进一步讨论这事。
+
+**** I'd better go now or I'll be late for class.  
+我最好现在就走， 否则我上课就会迟到。
+
+**** You'd better take your raincoat because it's supposed to rain today.  
+你最好带上雨衣，今天能会下雨。
+
+*** 第四笔财富：
+
+about to: on the point of doing something.
+
+刚要；打定主意要。
+
+**** We are just about to leave.  
+我们正准备离开。
+
+**** Cathy was just about to leave when Mr. Lee invited her to stay for dinner.  
+凯茜正准备离开的时候，李先生邀请她留下来吃晚饭。
+
+**** I'm not about to waste my time doing something foolish.  
+我绝不再浪费时间做愚蠢的事了。
+
+**** Stone was about to leave when the telephone rang.  
+石头正准备离开，电话铃响了。
+
+*** 第五笔财富：
+
+goes without saying: something is so obvious that it doesn't have to be
+mentioned.
+
+不言而喻，不用说。
+
+**** It goes without saying that our success depends on diligence.  
+不用说，我们的成功取决于勤奋。
+
+**** It goes without saying that children should not play with guns.  
+不用说，小孩不应当玩弄枪枝。
+
+**** Mary's an excellent student.  
+玛丽是个优秀的学生。
+
+**** It goes without saying that her parents are very proud of her.  
+不用说，她的父母以她为荣。
+
+**** Anne just told me she can't go with us. It goes without saying we're disappointed.  
+安娜刚告诉我不能和我们一起去了，不用说，我们都很失望。
+
+*** 第六笔财富：
+
+What's the matter? ＝ What is wrong?
+
+怎么啦？出了什么事？
+
+**** What's the matter with Kate? She looks angry.  
+凯特怎么啦？她好像很生气。
+
+**** What's the matter with this computer?  
+这台计算机出了什么毛病？
+
+**** How cold your hands feel! What's the matter with you?
+你的手怎么这样冰冷！你怎么啦！
+
+*** SUBSTITUTION DRILL
+
+**** 1. I have to brush up on my French/English/history/grammar rules/speaking skills.
+**** 2. All of a sudden I woke up/I remembered her name/she left the room/it began to rain/Kim started to cry/Stone became angry/Bill began to laugh/Hillary wanted to leave.
+**** 3. I'd better not go to the movies tonight/tell Lee what happened/eat dinner now/lose those important papers/fail the exam/sell my car/buy that house/give that psycho my phone number.
+**** 4. I was about to kill myself when it began to rain/study when you came in/go when the phone rang/write her a note when she arrived/eat dinner when Stone called me/take a bath when the doorbell rang.
+**** 5. It goes without saying that we should be on time/time is money/honesty is the best policy/we must study hard/haste makes waste/a penny saved is a penny earned/many hands make light work/you're as old as you feel/education is important/good health is essential.
+
+#+BEGIN_EXPORT html
+<div style="border:1px solid #444444; padding: 7px 20px; width:100%">
+Any proverb can follow the idiom "it goes without saying" because their advice is so well known that it shouldn't need to be repeated.
+</div><br /><br />
+#+END_EXPORT
+
+**** 6. What's the matter? You look angry/tired/upset/bored/pissed off/so happy/so sick/You're trembling/crying/Stone is yelling.
+* 第三部：疯狂卖弄篇
+*** 第一节：大段自我介绍
+*** 第一印象是最重要的！
+*** 第二节：卖弄你的英语和幽默感
+*** 第三节：神奇的中文成语
+*** 外国人会非常崇拜地听你讲解中文成语，因为它们充满了智慧！
+*** 第四节：形容词大战！
+*** 形容优秀、成功人的一百个形容词！出色的英语加上一流的甜言蜜语让你所向披靡
+* 第四部：疯狂实战篇
+* 第五部：疯狂挑战篇
+* 第六部：特级生活习惯
