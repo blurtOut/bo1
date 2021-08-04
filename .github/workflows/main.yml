@@ -1,0 +1,31 @@
+name: CI
+on:
+  push:
+    branches: [org-mode]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: purcell/setup-emacs@v3.0
+      with:
+       version: 27.1
+    - uses: actions/checkout@v2
+    - name: check version
+      run: |
+       emacs --version
+    - name: emacs help
+      run: |
+       emacs --help
+    - name: emacs processing
+      run: |
+       emacs blurt-out-1.org --batch -Q -f org-html-export-to-html --kill
+    - name: public setup
+      run: |
+       mkdir public && mv blurt-out-1.html public/index.html && cp -rp images/ recording/ src/ public/
+   - name: deploy
+     uses: peaceiris/actions-gh-pages@v3
+     with:
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+      publish_dir: ./public
+      cname: bo1.lyce.info
