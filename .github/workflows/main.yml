@@ -23,9 +23,9 @@ jobs:
     - name: public setup
       run: |
        mkdir public && mv blurt-out-1.html public/index.html && cp -rp images/ recording/ src/ public/
-   - name: deploy
-     uses: peaceiris/actions-gh-pages@v3
-     with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-      publish_dir: ./public
-      cname: bo1.lyce.info
+    - name: deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+       github_token: ${{ secrets.GITHUB_TOKEN }}
+       publish_dir: ./public
+       cname: bo1.lyce.info
